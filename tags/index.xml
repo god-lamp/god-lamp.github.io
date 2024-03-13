@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 神灯</title>
-    <link>https://god-lamp.github.com/tags/</link>
+    <link>https://god-lamp.github.io/tags/</link>
     <description>Recent content in Tags on 神灯</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://god-lamp.github.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://god-lamp.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>zk</title>
-      <link>https://god-lamp.github.com/tags/zk/</link>
+      <link>https://god-lamp.github.io/tags/zk/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://god-lamp.github.com/tags/zk/</guid>
+      <guid>https://god-lamp.github.io/tags/zk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>java</title>
-      <link>https://god-lamp.github.com/tags/java/</link>
+      <link>https://god-lamp.github.io/tags/java/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://god-lamp.github.com/tags/java/</guid>
+      <guid>https://god-lamp.github.io/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>面试</title>
-      <link>https://god-lamp.github.com/tags/%E9%9D%A2%E8%AF%95/</link>
+      <link>https://god-lamp.github.io/tags/%E9%9D%A2%E8%AF%95/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0800</pubDate>
       
-      <guid>https://god-lamp.github.com/tags/%E9%9D%A2%E8%AF%95/</guid>
+      <guid>https://god-lamp.github.io/tags/%E9%9D%A2%E8%AF%95/</guid>
       <description></description>
     </item>
     
