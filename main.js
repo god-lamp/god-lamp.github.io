@@ -152,7 +152,7 @@
           n["[object " + t2 + "]"] = t2.toLowerCase();
         });
         var d = function(n2) {
-          var e2, d2, b2, o2, i2, h2, f2, g2, w2, u2, l2, T2, C2, a2, E2, v2, s2, c2, y2, S2 = "sizzle" + 1 * new Date(), p2 = n2.document, k2 = 0, r2 = 0, m2 = ue2(), x2 = ue2(), A2 = ue2(), N2 = ue2(), j2 = function(e3, t3) {
+          var e2, d2, b2, o2, i2, h2, f2, g2, w2, u2, l2, T2, C2, a2, E2, v2, s2, c2, y2, S2 = "sizzle" + 1 * /* @__PURE__ */ new Date(), p2 = n2.document, k2 = 0, r2 = 0, m2 = ue2(), x2 = ue2(), A2 = ue2(), N2 = ue2(), j2 = function(e3, t3) {
             return e3 === t3 && (l2 = true), 0;
           }, D2 = {}.hasOwnProperty, t2 = [], q2 = t2.pop, L2 = t2.push, H2 = t2.push, O2 = t2.slice, P2 = function(e3, t3) {
             for (var n3 = 0, r3 = e3.length; n3 < r3; n3++)
@@ -5460,7 +5460,7 @@
               return n2({}, "", {}), n2;
             } catch (n3) {
             }
-          }(), $l = x2.clearTimeout !== re.clearTimeout && x2.clearTimeout, Dl = ol && ol.now !== re.Date.now && ol.now, Ml = x2.setTimeout !== re.setTimeout && x2.setTimeout, Fl = al.ceil, Nl = al.floor, Pl = ll.getOwnPropertySymbols, ql = Ol ? Ol.isBuffer : X, Zl = x2.isFinite, Kl = _l.join, Vl = F(ll.keys, ll), Gl = al.max, Hl = al.min, Jl = ol.now, Yl = x2.parseInt, Ql = al.random, Xl = _l.reverse, ns = Ai(x2, "DataView"), ts = Ai(x2, "Map"), rs = Ai(x2, "Promise"), es = Ai(x2, "Set"), us = Ai(x2, "WeakMap"), is = Ai(ll, "create"), os = us && new us(), fs = {}, cs = to(ns), as = to(ts), ls = to(rs), ss = to(es), hs = to(us), ps = Il ? Il.prototype : X, _s = ps ? ps.valueOf : X, vs = ps ? ps.toString : X, gs = function() {
+          }(), $l = x2.clearTimeout !== re.clearTimeout && x2.clearTimeout, Dl = ol && ol.now !== re.Date.now && ol.now, Ml = x2.setTimeout !== re.setTimeout && x2.setTimeout, Fl = al.ceil, Nl = al.floor, Pl = ll.getOwnPropertySymbols, ql = Ol ? Ol.isBuffer : X, Zl = x2.isFinite, Kl = _l.join, Vl = F(ll.keys, ll), Gl = al.max, Hl = al.min, Jl = ol.now, Yl = x2.parseInt, Ql = al.random, Xl = _l.reverse, ns = Ai(x2, "DataView"), ts = Ai(x2, "Map"), rs = Ai(x2, "Promise"), es = Ai(x2, "Set"), us = Ai(x2, "WeakMap"), is = Ai(ll, "create"), os = us && new us(), fs = {}, cs = to(ns), as = to(ts), ls = to(rs), ss = to(es), hs = to(us), ps = Il ? Il.prototype : X, _s = ps ? ps.valueOf : X, vs = ps ? ps.toString : X, gs = /* @__PURE__ */ function() {
             function n2() {
             }
             return function(t2) {
@@ -5630,7 +5630,7 @@
             return ai(n2, xn, X, X, X, t2);
           }), gh = ii(me), yh = ii(function(n2, t2) {
             return n2 >= t2;
-          }), dh = Re(function() {
+          }), dh = Re(/* @__PURE__ */ function() {
             return arguments;
           }()) ? Re : function(n2) {
             return cc(n2) && bl.call(n2, "callee") && !Wl.call(n2, "callee");
@@ -7473,7 +7473,7 @@
           }
         }
         var dr = ["mode", "brightness", "contrast", "grayscale", "sepia", "darkSchemeBackgroundColor", "darkSchemeTextColor", "lightSchemeBackgroundColor", "lightSchemeTextColor"];
-        var fr = function() {
+        var fr = /* @__PURE__ */ function() {
           var e2 = [], t2 = null;
           function r2() {
             for (var r3; r3 = e2.shift(); )
@@ -8382,7 +8382,7 @@
 
   // ns-hugo:D:\lamp-blog\themes\virgo\assets\js\init\greet.js
   function greet() {
-    let year = new Date().getFullYear();
+    let year = (/* @__PURE__ */ new Date()).getFullYear();
     console.log(
       `---------------------
 		

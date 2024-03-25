@@ -6,24 +6,21 @@
     <description>Recent content in Posts on 神灯</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0800</lastBuildDate><atom:link href="https://god-lamp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 09:39:36 +0800</lastBuildDate>
+    <atom:link href="https://god-lamp.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zookeeper学习</title>
       <link>https://god-lamp.github.io/posts/zk/zookeeper%E5%AD%A6%E4%B9%A0/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0800</pubDate>
-      
       <guid>https://god-lamp.github.io/posts/zk/zookeeper%E5%AD%A6%E4%B9%A0/</guid>
       <description>Zookeeper 是一个开源的分布式的，为分布式框架提供协调服务的项目。 Zookeeper从设计模式角度来理解：是一个基于观察者模式设计的分布式服务管理框架，它负责存储和管理大</description>
     </item>
-    
     <item>
       <title>Java八股文</title>
       <link>https://god-lamp.github.io/posts/java/</link>
       <pubDate>Tue, 12 Mar 2024 00:00:00 +0800</pubDate>
-      
       <guid>https://god-lamp.github.io/posts/java/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
